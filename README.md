@@ -1,2 +1,2 @@
 # fuzz-payload
-个人收集常用的fuzz payload
+收集本人常用的payload
